@@ -8,8 +8,9 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 ## Research Interests
 
-- **Computer Vision:** image recognition, image generation, video captioning
-- **Machine Learning:** meta-learning, incremental learning, transfer learning
+- **Computer Vision:** Image Recognition, 
+- **Machine Learning:** Learngene, Label Distribution Learning
+- **Evolution Computing:** Genetic Algorithm, Evolutionary Biology
 
 ## News
 
@@ -18,6 +19,18 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 - **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
 - **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
 
-{% include_relative _includes/publications.md %}
+## Publications
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>Genes in intelligent agents</strong>
+<br />
+<strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
+<br />
+<em>arxiv<strong><i style="color:#1e90ff">TPAMI</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
+<br/>
+</p>
+</div>
 
 {% include_relative _includes/services.md %}
