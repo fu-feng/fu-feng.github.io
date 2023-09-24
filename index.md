@@ -19,7 +19,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em>arxiv<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
 <br/>
