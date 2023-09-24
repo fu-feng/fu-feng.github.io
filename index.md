@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.cn/home.html) lab, Department of Computer Science, Southeast University (SEU), China. I got my B.S. degree from Chien-Shiung Wu College of Southeast University (SEU).
 
 ## Research Interests
 
