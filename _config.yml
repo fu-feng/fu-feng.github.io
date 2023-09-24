@@ -5,7 +5,5 @@ email: fufeng@seu.edu.cn
 keywords: minimal academic
 google_scholar: https://scholar.google.com.hk/citations?user=iQHFcXEAAAAJ&hl=zh-CN
 github_link: https://github.com/fu-feng
-
 avatar: ./assets/img/fengfu.jpg
-
-# font: "Serif" # or "Sans Serif"
+font: "Sans Serif" # "Serif" # or 
