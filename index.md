@@ -30,10 +30,10 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> None </autocolor></a></li>
+  <li><autocolor> None </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor> None </autocolor></a></li>
+  <li><autocolor> None </autocolor></li>
 </ul>
