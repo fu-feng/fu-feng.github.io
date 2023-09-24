@@ -8,7 +8,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 ## Research Interests
 
-- **Computer Vision:** Image Recognition, 
+- **Computer Vision:** Image Recognition
 - **Machine Learning:** Learngene, Label Distribution Learning
 - **Evolution Computing:** Genetic Algorithm, Evolutionary Biology
 
