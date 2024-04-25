@@ -15,7 +15,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Genes in intelligent agents</strong>
+<p><strong>Genes in Intelligent Agents</strong>
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
 <br />
@@ -23,6 +23,28 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br /> 
    [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
 <br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>Transferring Core Knowledge via Learngenes</strong>
+<br />
+<strong>Fu Feng</strong>, Jing Wang, Xin Geng
+<br />
+<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+## Competition
+<div>
+<p><strong>Kaggle Competition on LLM Prompt Recovery</strong>
+<br />
+<strong>Fu Feng</strong>, Congzhi Zhang, Jiawei peng
+<br />
 </p>
 </div>
 
