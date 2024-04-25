@@ -45,9 +45,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Congzhi Zhang, Jiawei peng
 <br />
-<br />
 Silver Medal (105/2176) 
-<br />   
 <br /> 
    [<a href="https://www.kaggle.com/competitions/llm-prompt-recovery/leaderboard">Web</a>]
 <br/>
