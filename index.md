@@ -45,7 +45,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 张从致, <strong>封赋</strong>, 袁小涵, 汪鹏
 <br />
-专利号: ZL202210462674.8
+国家发明专利 专利号: ZL202210462674.8
 </p>
 </div>
 
