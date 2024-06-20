@@ -39,6 +39,16 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 </p>
 </div>
 
+## Patent
+<div>
+<p><strong>一种基于半监督方法的心脏腔室图像分割方法及装置</strong>
+<br />
+张从致, <strong>封赋</strong>, 袁小涵, 汪鹏
+<br />
+专利号: ZL202210462674.8
+</p>
+</div>
+
 ## Competition
 <div>
 <p><strong>Kaggle Competition on LLM Prompt Recovery</strong>
