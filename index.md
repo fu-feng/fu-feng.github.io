@@ -52,6 +52,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 </p>
 </div>
 
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>KIND: Knowledge Integration and Diversion in Diffusion Models</strong>
+<br />
+Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
+<br />
+<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
 ## Patent
 <div>
 <p><strong>一种基于半监督方法的心脏腔室图像分割方法及装置</strong>
