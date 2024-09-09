@@ -19,7 +19,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
 <br/>
@@ -32,7 +32,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xin Geng
 <br />
-<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
 <br/>
@@ -45,7 +45,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
-<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
 <br/>
@@ -58,7 +58,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <br />
-<em>arxiv.<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
@@ -71,7 +71,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <br />
 Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
-<em>Pattern Recognition<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
