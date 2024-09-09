@@ -65,6 +65,19 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 </p>
 </div>
 
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>Residual k-Nearest Neighbors Label Distribution Learning</strong>
+<br />
+Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
+<br />
+<em>Pattern Recognition<strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
 ## Patent
 <div>
 <p><strong>一种基于半监督方法的心脏腔室图像分割方法及装置</strong>
