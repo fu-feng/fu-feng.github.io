@@ -67,11 +67,37 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
+<br />
+Yucheng Xie, <strong>Fu Feng</strong>, RUixiao Shi, Jing Wang, Xin Geng, Yong Rui
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2409.19289.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>Residual k-Nearest Neighbors Label Distribution Learning</strong>
 <br />
 Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
+<br />
+Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff"> Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
