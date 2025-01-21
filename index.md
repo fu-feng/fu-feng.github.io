@@ -54,7 +54,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
+<p><strong>Redefining &ltCreative&gt in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
@@ -82,7 +82,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <div class="paper">
 <p><strong>FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
 <br />
-Yucheng Xie, <strong>Fu Feng</strong>, RUixiao Shi, Jing Wang, Xin Geng, Yong Rui
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Rui
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
