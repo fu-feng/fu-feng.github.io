@@ -54,6 +54,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>Redefining <Creative> in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
+<br />
+<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>KIND: Knowledge Integration and Diversion in Diffusion Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
@@ -131,7 +144,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> None </autocolor></li>
+  <li><autocolor> CVPR25 </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
