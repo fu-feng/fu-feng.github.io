@@ -15,6 +15,32 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>WAVE: Weight Template for Adaptive Initialization of Variable-sized Models</strong>
+<br />
+<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>Redefining &ltCreative&gt in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
+<br />
+<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>Genes in Intelligent Agents</strong>
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
@@ -35,32 +61,6 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
-<br/>
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>WAVE: Weight Template for Adaptive Initialization of Variable-sized Models</strong>
-<br />
-<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<br /> 
-   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
-<br/>
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>Redefining &ltCreative&gt in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
-<br />
-<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<br /> 
-   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
 <br/>
 </p>
 </div>
@@ -149,5 +149,5 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
 <ul style="margin:0 0 20px;">
-  <li><autocolor> None </autocolor></li>
+  <li><autocolor> JMLC </autocolor></li>
 </ul>
