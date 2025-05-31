@@ -71,7 +71,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'25)</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
 <br/>
