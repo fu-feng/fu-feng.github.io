@@ -67,6 +67,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>Distribution-Conditional Generation: From Class Distribution to Creative Generation</strong>
+<br />
+<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'25)</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>KIND: Knowledge Integration and Diversion in Diffusion Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
@@ -87,6 +100,19 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Ru
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2409.19289.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
+<br />
+Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
 </p>
 </div>
@@ -144,7 +170,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> CVPR25 </autocolor></li>
+  <li><autocolor> CVPR25, NeurIPS25 </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
