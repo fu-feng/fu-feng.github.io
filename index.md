@@ -15,6 +15,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>Learngene: Inheritable “Genes” in Intelligent Agents</strong>
+<br />
+<strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Artificial Intelligence</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>WAVE: Weight Template for Adaptive Initialization of Variable-sized Models</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
@@ -35,19 +48,6 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
-<br/>
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>Genes in Intelligent Agents</strong>
-<br />
-<strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<br /> 
-   [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
 <br/>
 </p>
 </div>
