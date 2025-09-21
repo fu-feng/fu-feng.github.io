@@ -58,7 +58,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jianlu Shen, Jing Wang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
 <br/>
@@ -149,7 +149,7 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff"> Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
