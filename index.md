@@ -54,11 +54,11 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Transferring Core Knowledge via Learngenes</strong>
+<p><strong>ECO: Evolving Core Knowledge for Efficient Transfe</strong>
 <br />
-<strong>Fu Feng</strong>, Jing Wang, Xin Geng
+<strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jianlu Shen, Jing Wang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
 <br/>
@@ -97,7 +97,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Rui
 <br />
-<em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
@@ -123,7 +123,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Ru
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
@@ -149,7 +149,7 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff"> Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
+<em><strong><i style="color:#1e90ff"> Proceedings of the Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
