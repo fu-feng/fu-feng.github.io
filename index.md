@@ -97,7 +97,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Rui
 <br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26, Oral)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
 <br/>
@@ -183,7 +183,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> CVPR'25, NeurIPS'25, AAAI'26, WACV'26 </autocolor></li>
+  <li><autocolor> CVPR'25,26, NeurIPS'25, ICLR'26, AAAI'26, WACV'26 </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
