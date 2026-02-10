@@ -183,7 +183,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> CVPR'25,26, NeurIPS'25, ICLR'26, AAAI'26, WACV'26 </autocolor></li>
+  <li><autocolor> NeurIPS'25, ICML'26, ICLR'26, AAAI'26, CVPR'25,26, ECCV'26, WACV'26, BMVC'26 </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
