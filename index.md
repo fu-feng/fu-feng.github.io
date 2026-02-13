@@ -21,7 +21,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <em><strong><i style="color:#1e90ff">Artificial Intelligence</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2306.10225.pdf">Web</a>]
+   [<a href="https://www.sciencedirect.com/science/article/pii/S0004370225001407">Web</a>]
 <br/>
 </p>
 </div>
@@ -34,7 +34,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
+   [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_WAVE_Weight_Templates_for_Adaptive_Initialization_of_Variable-sized_Models_CVPR_2025_paper.pdf">Web</a>]
 <br/>
 </p>
 </div>
@@ -47,20 +47,20 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2406.17503.pdf">Web</a>]
+   [<a href="https://openaccess.thecvf.com/content/CVPR2025/papers/Feng_Redefining_Creative_in_Dictionary_Towards_an_Enhanced_Semantic_Understanding_of_CVPR_2025_paper.pdf">Web</a>]
 <br/>
 </p>
 </div>
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>ECO: Evolving Core Knowledge for Efficient Transfe</strong>
+<p><strong>ECO: Evolving Core Knowledge for Efficient Transfer</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jianlu Shen, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Annual Conference on Neural Information Processing Systems (NeurIPS'25)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2401.08139">Web</a>]
 <br/>
 </p>
 </div>
@@ -73,7 +73,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2401.08139.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2505.03667">Web</a>]
 <br/>
 </p>
 </div>
@@ -86,7 +86,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <br />
 <em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'25)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2408.07337">Web</a>]
 <br/>
 </p>
 </div>
@@ -99,7 +99,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Ru
 <br />
 <em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26, Oral)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2507.23620">Web</a>]
 <br/>
 </p>
 </div>
@@ -112,7 +112,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Ru
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2409.19289.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
 <br/>
 </p>
 </div>
@@ -125,7 +125,7 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
 <br/>
 </p>
 </div>
@@ -138,7 +138,7 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+   [<a href="https://www.sciencedirect.com/science/article/pii/S003132032400757X">Web</a>]
 <br/>
 </p>
 </div>
@@ -151,7 +151,7 @@ Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/pdf/2408.07337.pdf">Web</a>]
+   [<a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2e53c02ea028cbf603f4b6b47fef3d97-Abstract-Conference.html">Web</a>]
 <br/>
 </p>
 </div>
