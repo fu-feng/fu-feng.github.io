@@ -80,6 +80,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>Knowledge Diversion for Efficient Morphology Control and Policy Transfer</strong>
+<br />
+<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>KIND: Knowledge Integration and Diversion in Diffusion Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
