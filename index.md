@@ -19,7 +19,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Artificial Intelligence</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Artificial Intelligence (AIJ)</i></strong>.</em>
 <br /> 
    [<a href="https://www.sciencedirect.com/science/article/pii/S0004370225001407">Web</a>]
 <br/>
@@ -149,7 +149,7 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
 Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Pattern Recognition</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Pattern Recognition (PR)</i></strong>.</em>
 <br /> 
    [<a href="https://www.sciencedirect.com/science/article/pii/S003132032400757X">Web</a>]
 <br/>
