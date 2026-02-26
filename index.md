@@ -71,7 +71,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2505.03667">Web</a>]
 <br/>
@@ -121,9 +121,22 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Ru
 <div class="paper">
 <p><strong>FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
 <br />
-Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Rui
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling</strong>
+<br />
+JIanlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
 <br/>
