@@ -15,13 +15,13 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Learngene: Inheritable “Genes” in Intelligent Agents</strong>
+<p><strong>Distribution-Conditional Generation: From Class Distribution to Creative Generation</strong>
 <br />
-<strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
+<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">Artificial Intelligence (AIJ)</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
 <br /> 
-   [<a href="https://www.sciencedirect.com/science/article/pii/S0004370225001407">Web</a>]
+   [<a href="https://arxiv.org/abs/2505.03667">Web</a>]
 <br/>
 </p>
 </div>
@@ -67,13 +67,13 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Distribution-Conditional Generation: From Class Distribution to Creative Generation</strong>
+<p><strong>Learngene: Inheritable “Genes” in Intelligent Agents</strong>
 <br />
-<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
+<strong>Fu Feng</strong>, Jing Wang, Xu Yang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">Artificial Intelligence (AIJ)</i></strong>.</em>
 <br /> 
-   [<a href="https://arxiv.org/abs/2505.03667">Web</a>]
+   [<a href="https://www.sciencedirect.com/science/article/pii/S0004370225001407">Web</a>]
 <br/>
 </p>
 </div>
