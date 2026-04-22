@@ -9,9 +9,11 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Education
 
 - **Southeast University**, Nanjing, China  
-  *Ph.D. in Computer Science and Technology*, School of Computer Science and Engineering, Sep 2023 – Jun 2028  
+  *Ph.D. in Computer Science and Technology*, School of Computer Science and Engineering
+  Sep 2023 – Jun 2028  
 - **Southeast University**, Nanjing, China  
-  *B.S. in Artificial Intelligence*, Chien-Shiung Wu College, Sep 2019 – Jun 2023
+  *B.S. in Artificial Intelligence*, Chien-Shiung Wu College
+  Sep 2019 – Jun 2023
 
 ## Research Interests
 
@@ -27,6 +29,19 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
 </p>
+</div>
+
+<div class="paper" style="display:flex; align-items:flex-start; margin-bottom:14px;">
+  <div style="width:40px; text-align:right; margin-right:10px;">
+    [1]
+  </div>
+  <div>
+    <strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong><br/>
+    <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng<br/>
+    <em><strong><i style="color:#1e90ff">
+      IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)
+    </i></strong></em>
+  </div>
 </div>
 
 [comment]: <> (Arxiv)
