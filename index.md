@@ -23,25 +23,12 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
-[1] <p><strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
+<p><strong>[1] Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
 </p>
-</div>
-
-<div class="paper" style="display:flex; align-items:flex-start; margin-bottom:14px;">
-  <div style="width:40px; text-align:right; margin-right:10px;">
-    [1]
-  </div>
-  <div>
-    <strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong><br/>
-    <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng<br/>
-    <em><strong><i style="color:#1e90ff">
-      IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)
-    </i></strong></em>
-  </div>
 </div>
 
 [comment]: <> (Arxiv)
