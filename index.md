@@ -8,12 +8,9 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 ## Education
 
-- **Southeast University**, Nanjing, China
-  
-  *Ph.D. in Computer Science and Technology*, School of Computer Science and Engineering, Sep 2023 – Jun 2028
-  
-- **Southeast University**, Nanjing, China
-  
+- **Southeast University**, Nanjing, China  
+  *Ph.D. in Computer Science and Technology*, School of Computer Science and Engineering, Sep 2023 – Jun 2028  
+- **Southeast University**, Nanjing, China  
   *B.S. in Artificial Intelligence*, Chien-Shiung Wu College, Sep 2019 – Jun 2023
 
 ## Research Interests
