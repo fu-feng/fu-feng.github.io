@@ -21,7 +21,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[1] Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
+[1] <p><strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
