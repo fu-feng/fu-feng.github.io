@@ -19,7 +19,7 @@ Sep 2019 – Jun 2023
 ## Research Interests
 
 - **Computer Vision:** Creative Image Generation
-- **Machine Learning:** Intelligent Agent
+- **Machine Learning:** Intelligent Agent, Knowledge Transfer
 
 ## Publications
 [comment]: <> (Arxiv)
