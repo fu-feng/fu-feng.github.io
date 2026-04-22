@@ -29,15 +29,6 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 </p>
 </div>
 
-<div class="paper" style="display:flex; gap:12px; margin-bottom:12px;">
-  <div style="width:28px; text-align:right;">[1]</div>
-  <div>
-    <strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong><br/>
-    <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng<br/>
-    <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong></em>
-  </div>
-</div>
-
 [comment]: <> (Arxiv)
 <div class="paper">
 <p><strong>[2] WAVE: Weight Template for Adaptive Initialization of Variable-sized Models</strong>
