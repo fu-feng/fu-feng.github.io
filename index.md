@@ -8,21 +8,17 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 ## Research Interests
 
-- **Computer Vision:** Image Recognition
-- **Machine Learning:** Learngene, Label Distribution Learning
-- **Evolution Computing:** Genetic Algorithm, Evolutionary Biology
+- **Computer Vision:** Creative Image Generation
+- **Machine Learning:** Intelligent Agent
 
 ## Publications
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>Distribution-Conditional Generation: From Class Distribution to Creative Generation</strong>
+<p><strong>Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
 <br />
-<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xu Yang, Xin Geng
+<strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
-<br /> 
-   [<a href="https://arxiv.org/abs/2505.03667">Web</a>]
-<br/>
 </p>
 </div>
 
@@ -43,7 +39,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 <div class="paper">
 <p><strong>Redefining &ltCreative&gt in Dictionary: Towards a Enhanced Semantic Understanding of Creative Generation</strong>
 <br />
-<strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'25)</i></strong>.</em>
 <br /> 
@@ -93,9 +89,22 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>KIND: Knowledge Integration and Diversion in Diffusion Models</strong>
+<p><strong>Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization</strong>
 <br />
-Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
+<strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>KIND: Knowledge Integration and Diversion for Training Decomposable Models</strong>
+<br />
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'25)</i></strong>.</em>
 <br /> 
@@ -108,7 +117,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Jing Wang, Xin Geng, Yong Rui
 <div class="paper">
 <p><strong>DivControl: Knowledge Diversion for Controllable Image Generation</strong>
 <br />
-Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Xin Geng, Yong Rui
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26, Oral)</i></strong>.</em>
 <br /> 
@@ -132,11 +141,37 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
+<p><strong>Self-Supervised Weight Templates for Scalable Vision Model Initialization</strong>
+<br />
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
 <p><strong>A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling</strong>
 <br />
-JIanlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
+Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>One-for-All Model Initialization with Frequency-Domain Knowledge</strong>
+<br />
+Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
    [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
 <br/>
@@ -148,6 +183,19 @@ JIanlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 <p><strong>FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<br /> 
+   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
+<br/>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>A Creative Agent is Worth a 64-Token Template</strong>
+<br />
+Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
 <br /> 
