@@ -85,32 +85,6 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[6] Knowledge Diversion for Efficient Morphology Control and Policy Transfer</strong>
-<br />
-<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[7] Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization</strong>
-<br />
-<strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
 <p><strong>[8] KIND: Knowledge Integration and Diversion for Training Decomposable Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
@@ -150,19 +124,6 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[11] Self-Supervised Weight Templates for Scalable Vision Model Initialization</strong>
-<br />
-Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
 <p><strong>[12] A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling</strong>
 <br />
 Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
@@ -170,45 +131,6 @@ Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
 <!-- <br /> 
    [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[13] One-for-All Model Initialization with Frequency-Domain Knowledge</strong>
-<br />
-Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[14] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
-<br />
-Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[15] A Creative Agent is Worth a 64-Token Template</strong>
-<br />
-Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
 <br/> -->
 </p>
 </div>
@@ -235,6 +157,87 @@ Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <em><strong><i style="color:#1e90ff">Annual Conference on Neural Information Processing Systems (NeurIPS'24) </i></strong>.</em>
 <!-- <br /> 
    [<a href="https://proceedings.neurips.cc/paper_files/paper/2024/hash/2e53c02ea028cbf603f4b6b47fef3d97-Abstract-Conference.html">Web</a>]
+<br/> -->
+</p>
+</div>
+
+## Under Review & Preprints
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[6] Knowledge Diversion for Efficient Morphology Control and Policy Transfer</strong>
+<br />
+<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/> -->
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[7] Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization</strong>
+<br />
+<strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/> -->
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[11] Self-Supervised Weight Templates for Scalable Vision Model Initialization</strong>
+<br />
+Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/> -->
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[13] One-for-All Model Initialization with Frequency-Domain Knowledge</strong>
+<br />
+Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/> -->
+</p>
+</div>
+
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[14] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
+<br />
+Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
+<br/> -->
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[15] A Creative Agent is Worth a 64-Token Template</strong>
+<br />
+Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
 <br/> -->
 </p>
 </div>
