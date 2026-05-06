@@ -21,6 +21,7 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 - **Machine Learning:** Intelligent Agent, Knowledge Transfer
 
 ## Publications
+### Journal Articles
 [comment]: <> (Arxiv)
 <div class="paper">
 <p><strong>[1] Learngene: Inheritable “Genes” in Intelligent Agents</strong>
@@ -36,11 +37,38 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[2] Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
+<p><strong>[2] Residual k-Nearest Neighbors Label Distribution Learning</strong>
+<br />
+Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Pattern Recognition (PR)</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://www.sciencedirect.com/science/article/pii/S003132032400757X">Web</a>]
+<br/> -->
+</p>
+</div>
+
+### Conference Papers
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[1] Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[2] Knowledge Diversion for Efficient Morphology Control and Policy Transfer</strong>
+<br />
+<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'26)</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/> -->
 </p>
 </div>
 
@@ -83,23 +111,9 @@ I am a Ph.D. student supervised by Prof Xin Geng at [PALM](http://palm.seu.edu.c
 </p>
 </div>
 
-
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[6] Knowledge Diversion for Efficient Morphology Control and Policy Transfer</strong>
-<br />
-<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jianlu Shen, Jing Wang, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'26)</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
-<br/> -->
-</p>
-</div>
-
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[7] Self-Supervised Weight Templates for Scalable Vision Model Initialization</strong>
+<p><strong>[6] Self-Supervised Weight Templates for Scalable Vision Model Initialization</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
@@ -113,7 +127,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[8] KIND: Knowledge Integration and Diversion for Training Decomposable Models</strong>
+<p><strong>[7] KIND: Knowledge Integration and Diversion for Training Decomposable Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
@@ -126,7 +140,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[9] DivControl: Knowledge Diversion for Controllable Image Generation</strong>
+<p><strong>[8] DivControl: Knowledge Diversion for Controllable Image Generation</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
@@ -139,7 +153,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[10] FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
+<p><strong>[9] FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
@@ -153,7 +167,7 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[11] One-for-All Model Initialization with Frequency-Domain Knowledge</strong>
+<p><strong>[10] One-for-All Model Initialization with Frequency-Domain Knowledge</strong>
 <br />
 Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
 <br />
@@ -166,7 +180,7 @@ Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[12] A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling</strong>
+<p><strong>[11] A Unified Framework for Knowledge Transfer in Bidirectional Model Scaling</strong>
 <br />
 Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 <br />
@@ -177,22 +191,10 @@ Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 </p>
 </div>
 
-[comment]: <> (Arxiv)
-<div class="paper">
-<p><strong>[13] Residual k-Nearest Neighbors Label Distribution Learning</strong>
-<br />
-Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
-<br />
-<em><strong><i style="color:#1e90ff">Pattern Recognition (PR)</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://www.sciencedirect.com/science/article/pii/S003132032400757X">Web</a>]
-<br/> -->
-</p>
-</div>
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[14] Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
+<p><strong>[12] Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
 <br />
 Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <br />
@@ -205,11 +207,9 @@ Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 
 ## Under Review & Preprints
 
-
-
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[15] Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization</strong>
+<p><strong>[1] Constraint-based Pre-training: From Structured Constraints to Scalable Model Initialization</strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Jing Wang, Xin Geng
 <br />
@@ -222,7 +222,7 @@ Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[16] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
+<p><strong>[2] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
@@ -235,7 +235,7 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[17] A Creative Agent is Worth a 64-Token Template</strong>
+<p><strong>[3] A Creative Agent is Worth a 64-Token Template</strong>
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 <br />
