@@ -51,7 +51,7 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 ### Conference Papers
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[1] Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</strong>
+<p><strong>[1] <a href="./38568.pdf" target="_blank">Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</a></strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
