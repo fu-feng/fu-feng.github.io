@@ -55,15 +55,10 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
-<em>
-<strong>
-<i style="color:#1e90ff">
-IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26),
-</i>
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i>,</em>
 <span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
 <span style="font-style: normal; color:#888888;">(Top 0.88%)</span>
 </strong>.
-</em>
 </p>
 </div>
 
@@ -152,12 +147,12 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26, Oral)</i></strong>.</em>
+<strong>
+<em><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26)</i></strong>,</em>
 </i>
 <span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
 <span style="font-style: normal; color:#888888;">(Top 4.5%)</span>
 </strong>.
-</em>
 </p>
 </div>
 
