@@ -51,14 +51,20 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 ### Conference Papers
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[1] <a href="./38568.pdf" target="_blank">Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</a></strong>
+<p>
+<strong>[1] <a href="./38568.pdf" target="_blank">Breaking Semantic Boundaries: Distribution-Guided Semantic Exploration for Creative Generation</a></strong>
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i>,</em>
-<span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
+<em>
+<strong>
+<i style="color:#1e90ff">
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
+</i>,
+<span style="font-style: normal; color:#b22222; font-weight:600;">⭐ Oral</span>
 <span style="font-style: normal; color:#888888;">(Top 0.88%)</span>
-</strong>.
+</strong>
+</em>.
 </p>
 </div>
 
@@ -142,15 +148,20 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 </div>
 
 <div class="paper">
-<p><strong>[8] DivControl: Knowledge Diversion for Controllable Image Generation</strong>
+<p>
+<strong>[8] DivControl: Knowledge Diversion for Controllable Image Generation</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26)</i>,</em>
-</i>
-<span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
+<em>
+<strong>
+<i style="color:#1e90ff">
+AAAI Conference on Artificial Intelligence (AAAI'26)
+</i>,
+<span style="font-style: normal; color:#b22222; font-weight:600;">⭐ Oral</span>
 <span style="font-style: normal; color:#888888;">(Top 4.5%)</span>
-</strong>.
+</strong>
+</em>.
 </p>
 </div>
  
