@@ -55,7 +55,15 @@ Jing Wang, <strong>Fu Feng</strong>, Jianhui Lv, Xin Geng
 <br />
 <strong>Fu Feng</strong>, Yucheng Xie, Ruixiao Shi, Xu Yang, Jing Wang, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26, Oral)</i></strong>.</em>
+<em>
+<strong>
+<i style="color:#1e90ff">
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26),
+</i>
+<span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
+<span style="font-style: normal; color:#888888;">(Top 0.88%)</span>
+</strong>.
+</em>
 </p>
 </div>
 
