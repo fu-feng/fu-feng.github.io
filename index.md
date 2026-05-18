@@ -153,9 +153,11 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26, Oral)</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2507.23620">Web</a>]
-<br/> -->
+</i>
+<span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
+<span style="font-style: normal; color:#888888;">(Top 4.5%)</span>
+</strong>.
+</em>
 </p>
 </div>
 
