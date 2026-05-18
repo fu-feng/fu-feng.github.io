@@ -141,21 +141,19 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 </p>
 </div>
 
-[comment]: <> (Arxiv)
 <div class="paper">
 <p><strong>[8] DivControl: Knowledge Diversion for Controllable Image Generation</strong>
 <br />
 Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Geng
 <br />
-<strong>
-<em><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26)</i></strong>,</em>
+<em><strong><i style="color:#1e90ff">AAAI Conference on Artificial Intelligence (AAAI'26)</i>,</em>
 </i>
 <span style="font-style: normal; color:#ff4d4f; font-weight:600;">⭐ Oral</span>
 <span style="font-style: normal; color:#888888;">(Top 4.5%)</span>
 </strong>.
 </p>
 </div>
-
+ 
 [comment]: <> (Arxiv)
 <div class="paper">
 <p><strong>[9] FINE: Factorizing Knowledge for Initialization of Variable-sized Diffusion Models</strong>
