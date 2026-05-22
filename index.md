@@ -262,6 +262,15 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 
 ## Patent
 <div>
+<p><strong>基于参数分解重组学习基因的端侧模型轻量化计算方法、产品及部署方法</strong>
+<br />
+谢雨成, 耿新, 王靖, <strong>封赋</strong>
+<br />
+国家发明专利 专利号: CN202511486999.X
+</p>
+</div>
+
+<div>
 <p><strong>一种基于半监督方法的心脏腔室图像分割方法及装置</strong>
 <br />
 张从致, <strong>封赋</strong>, 袁小涵, 汪鹏
