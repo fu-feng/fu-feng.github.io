@@ -191,7 +191,6 @@ Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
 IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
 </i>,
 <span style="font-style: normal; color:#b22222; font-weight:600;">🏆 Compute Transparency Champion Award</span>
-<span style="font-style: normal; color:#888888;">(Top 0.88%)</span>
 </strong>
 </em>.
 </p>
