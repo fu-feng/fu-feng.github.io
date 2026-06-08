@@ -185,10 +185,15 @@ Yucheng Xie, <strong>Fu Feng</strong>, Ruixiao Shi, Jing Wang, Yong Rui, Xin Gen
 <br />
 Jianlu Shen, <strong>Fu Feng</strong>, Yucheng Xie, Jiaqi Lv, Xin Geng
 <br />
-<em><strong><i style="color:#1e90ff">International Conference on Machine Learning (ICML'26)</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
-<br/> -->
+<em>
+<strong>
+<i style="color:#1e90ff">
+IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)
+</i>,
+<span style="font-style: normal; color:#b22222; font-weight:600;">🏆 Compute Transparency Champion Award</span>
+<span style="font-style: normal; color:#888888;">(Top 0.88%)</span>
+</strong>
+</em>.
 </p>
 </div>
 
