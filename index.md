@@ -258,11 +258,20 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 <br />
 <em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
-<!-- <br /> 
-   [<a href="https://arxiv.org/abs/2505.08349">Web</a>]
-<br/> -->
 </p>
 </div>
+
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[4] SafeGene: Reusable Adapters for Transferable Safety Alignment</strong>
+<br />
+Yanghan Wang, Zhiqiang Kou, <strong>Fu Feng</strong>, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+</p>
+</div>
+
 
 ## Patent
 <div>
