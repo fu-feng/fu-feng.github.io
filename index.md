@@ -209,10 +209,23 @@ Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 </p>
 </div>
 
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[12] CHARGE: Chinese Healthcare Augmented Retrieval and Generation Framework</strong>
+<br />
+Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang
+<br />
+<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
+<br/> -->
+</p>
+</div>
+
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[12] Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
+<p><strong>[13] Cluster-Learngene: Inheriting Adaptive Clusters for Vision Transformers</strong>
 <br />
 Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 <br />
@@ -309,7 +322,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> NeurIPS'25, ICML'26 (Silver Reviewer Award), ICLR'26, AAAI'26, CVPR'25,26, ECCV'26, WACV'26, BMVC'26 </autocolor></li>
+  <li><autocolor> NeurIPS'25, ICML'26 (Silver Reviewer Award), ICLR'26, AAAI'26,27, CVPR'25,26, ECCV'26, WACV'26, BMVC'26 </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
