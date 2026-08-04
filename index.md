@@ -215,7 +215,7 @@ Jianlu Shen, <strong>Fu Feng</strong>, Jiaze Xu, Yucheng Xie, Jiaqi Lv, Xin Geng
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang
 <br />
-<em><strong><i style="color:#1e90ff">IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR'26)</i></strong>.</em>
+<em><strong><i style="color:#1e90ff">International Conference on Natural Language Processing and Chinese Computing (NLPCC'26)</i></strong>.</em>
 <!-- <br /> 
    [<a href="https://arxiv.org/abs/2409.19289">Web</a>]
 <br/> -->
