@@ -253,7 +253,20 @@ Qiufeng Wang, Xu Yang, <strong>Fu Feng</strong>, Jing Wang, and Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[2] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
+<p><strong>[2] Bridging Body and Brain: Gene-driven Morphology--Control Co-design</strong>
+<br />
+<strong>Fu Feng</strong>, Ruixiao Shi, Yucheng Xie, Jing Wang, Xin Geng
+<br />
+<em><strong><i style="color:#1e90ff">Arxiv</i></strong>.</em>
+<!-- <br /> 
+   [<a href="https://arxiv.org/abs/2512.09796">Web</a>]
+<br/> -->
+</p>
+</div>
+
+[comment]: <> (Arxiv)
+<div class="paper">
+<p><strong>[3] FAD: Frequency Adaptation and Diversion for Cross-domain Few-shot Learning</strong>
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 <br />
@@ -266,7 +279,7 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Jing Wang, Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[3] A Creative Agent is Worth a 64-Token Template</strong>
+<p><strong>[4] A Creative Agent is Worth a 64-Token Template</strong>
 <br />
 Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 <br />
@@ -277,7 +290,7 @@ Ruixiao Shi, <strong>Fu Feng</strong>, Yucheng Xie, Xu Yang, Jing Wang, Xin Geng
 
 [comment]: <> (Arxiv)
 <div class="paper">
-<p><strong>[4] SafeGene: Reusable Adapters for Transferable Safety Alignment</strong>
+<p><strong>[5] SafeGene: Reusable Adapters for Transferable Safety Alignment</strong>
 <br />
 Yanghan Wang, Zhiqiang Kou, <strong>Fu Feng</strong>, Jing Wang, Xin Geng
 <br />
@@ -322,7 +335,7 @@ Silver Medal (105/2176)
 
 <h4 style="margin:0 10px 0;">Conference Reviewers</h4>
 <ul style="margin:0 0 5px;">
-  <li><autocolor> NeurIPS'25, ICML'26 (Silver Reviewer Award), ICLR'26, AAAI'26,27, CVPR'25,26, ECCV'26, WACV'26, BMVC'26 </autocolor></li>
+  <li><autocolor> NeurIPS(25), ICML(26 [Silver Reviewer Award]), ICLR(26, 27), AAAI(26,27), CVPR(25,26), ECCV(26), WACV(26), BMVC(26) </autocolor></li>
 </ul>
 
 <h4 style="margin:0 10px 0;">Journal Reviewers</h4>
